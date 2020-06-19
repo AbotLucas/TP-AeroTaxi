@@ -12,6 +12,9 @@ public class Main {
         lista.put(40138127, u1);
         lista.put(4013812, u2);
         System.out.println(lista.get(40138127).toString());
+        Avion a = new Avion(123,456,789,123456,Propulsion.REACCION);
+        System.out.println(a.toString());
+
 
     }
 }
