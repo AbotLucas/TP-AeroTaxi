@@ -1,8 +1,15 @@
 package com.company;
 
+
+import javafx.scene.shape.Arc;
+
+import java.io.Serializable;
+import java.lang.reflect.Array;
+import java.util.ArrayList;
+import java.util.Iterator;
 import java.util.Objects;
 
-public class Usuario {
+public class Usuario implements Serializable {
     protected String nombre;
     protected String apellido;
     protected int dni;
@@ -43,6 +50,7 @@ public class Usuario {
     public int hashCode() {
         return Objects.hash(nombre, apellido, dni, edad);
     }
+
 
     public String getNombre() {
         return nombre;

@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d723d11d-56e2-4df7-bf1b-1103a5559fc2" name="Default Changelist" comment="" />
+    <list default="true" id="d723d11d-56e2-4df7-bf1b-1103a5559fc2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/jackson_databind_2_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/LimpiarConsola.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/MenuPrincipal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usuarios.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP AeroTaxi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TP AeroTaxi.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Usuario.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -24,6 +33,10 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -56,33 +69,61 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="922" y="113" key="#com.intellij.ide.util.MemberChooser" timestamp="1592421525825">
+    <state x="922" y="113" key="#com.intellij.ide.util.MemberChooser" timestamp="1592700143939">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="922" y="113" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1592421525825" />
-    <state width="726" height="208" key="GridCell.Tab.0.bottom" timestamp="1592270640702">
+    <state x="922" y="113" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1592700143939" />
+    <state width="1493" height="212" key="GridCell.Tab.0.bottom" timestamp="1592774736216">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="726" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592270640702" />
-    <state width="726" height="208" key="GridCell.Tab.0.center" timestamp="1592270640702">
+    <state width="1493" height="212" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592774736216" />
+    <state width="1493" height="212" key="GridCell.Tab.0.center" timestamp="1592774736216">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="726" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1592270640702" />
-    <state width="726" height="208" key="GridCell.Tab.0.left" timestamp="1592270640702">
+    <state width="1493" height="212" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1592774736216" />
+    <state width="1493" height="212" key="GridCell.Tab.0.left" timestamp="1592774736215">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="726" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1592270640702" />
-    <state width="726" height="208" key="GridCell.Tab.0.right" timestamp="1592270640702">
+    <state width="1493" height="212" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1592774736215" />
+    <state width="1493" height="212" key="GridCell.Tab.0.right" timestamp="1592774736216">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="726" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592270640702" />
+    <state width="1493" height="212" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592774736216" />
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom" timestamp="1592774183176">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592774183176" />
+    <state width="1493" height="260" key="GridCell.Tab.1.center" timestamp="1592774183176">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1592774183176" />
+    <state width="1493" height="260" key="GridCell.Tab.1.left" timestamp="1592774183176">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1592774183176" />
+    <state width="1493" height="260" key="GridCell.Tab.1.right" timestamp="1592774183176">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1592774183176" />
+    <state x="522" y="134" key="RollbackChangesDialog" timestamp="1592702397981">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="522" y="134" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1592702397981" />
     <state x="449" y="257" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592538675865">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="449" y="257" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1592538675865" />
+    <state x="690" y="148" width="846" height="601" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1592696431210">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="690" y="148" width="846" height="601" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1592696431210" />
     <state x="418" y="33" key="new project wizard" timestamp="1592270517674">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="418" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1592270517674" />
+    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1592701518771">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1592701518771" />
   </component>
 </project>
