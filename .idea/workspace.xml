@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d723d11d-56e2-4df7-bf1b-1103a5559fc2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/jackson_databind_2_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/LimpiarConsola.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/MenuPrincipal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/usuarios.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP AeroTaxi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TP AeroTaxi.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Avion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Avion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/AvionBronze.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/AvionBronze.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/AvionGold.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/AvionGold.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/AvionSilver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/AvionSilver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Usuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Vuelo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Vuelo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -1,19 +1,21 @@
 package com.company;
 
+
 import javafx.scene.shape.Arc;
 
 import java.util.*;
+
+import java.util.ArrayList;
+import java.util.Date;
+import java.util.HashMap;
+import java.util.List;
+
 
 public class Main {
 
     public static void main(String[] args) {
         // write your code here
-        Usuario u1 = new Usuario("Lucas", "Abot", 40138127, 23);
-        Usuario u2 = new Usuario("Tomas", "Abot", 41138127, 18);
-
         Scanner miScanner = new Scanner(System.in);
-
-
         int respuesta;
 
         do {
