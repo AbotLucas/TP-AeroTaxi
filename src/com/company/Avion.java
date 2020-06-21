@@ -9,7 +9,10 @@ public class Avion {
     protected boolean catering;
     protected boolean wifi;
 
-    public Avion (){}
+    public Avion (){
+
+    }
+
     public Avion (int capacidad_de_combustible, int costo_km, int capacidad_de_pasajeros, double velocidad_maxima, Propulsion propulsion, boolean catering, boolean wifi){
         this.capacidad_de_combustible=capacidad_de_combustible;
         this.capacidad_de_pasajeros=capacidad_de_pasajeros;
