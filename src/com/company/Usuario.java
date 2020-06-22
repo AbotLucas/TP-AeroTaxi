@@ -1,5 +1,7 @@
 package com.company;
 
+import java.util.Date;
+import java.util.List;
 import java.util.Objects;
 
 public class Usuario {
@@ -75,4 +77,18 @@ public class Usuario {
     public void setEdad(int edad) {
         this.edad = edad;
     }
+
+    //RECORRE EL ARREGLO DE USUARIOS Y LOS MUESTRA
+    public void usuarios_registrados (List<Usuario> u){
+        int i =0;
+        while (i<u.size()){
+            System.out.println(u.get(i).toString());
+            i++;
+        }
+    }
+
+
+
+
+
 }

@@ -1,5 +1,9 @@
 package com.company;
 
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
+
 public class Avion {
     protected int capacidad_de_combustible;
     protected int costo_km; //COSTO POR KILOMETRO
