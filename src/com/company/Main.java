@@ -1,8 +1,10 @@
 package com.company;
 
 
+import com.fasterxml.jackson.databind.ObjectMapper;
 import javafx.scene.shape.Arc;
 
+import java.io.File;
 import java.util.*;
 
 import java.util.ArrayList;
@@ -15,7 +17,9 @@ public class Main {
 
     public static void main(String[] args) {
         // write your code here
+
         Scanner miScanner = new Scanner(System.in);
+        ArrayList<Usuario> usuarios = Archivos.levantarUsuarios();
         int respuesta;
 
         do {
@@ -28,11 +32,10 @@ public class Main {
 
                 case 1:
                     MenuPrincipal menu = new MenuPrincipal();
-                    menu.ingresar();
+                    menu.ingresar(usuarios);
                     break;
                 case 2:
                     MenuPrincipal menu2 = new MenuPrincipal();
-                    ArrayList<Usuario> usuarios = Archivos.levantarUsuarios();
                     menu2.registrarse(usuarios);
                     break;
                 case 0:
