@@ -3,17 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d723d11d-56e2-4df7-bf1b-1103a5559fc2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Archivos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Archivos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Avion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Avion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/AvionBronze.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/AvionBronze.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/AvionGold.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/AvionGold.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/AvionSilver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/AvionSilver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/MenuPrincipal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/MenuPrincipal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/MenuUsuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/MenuUsuario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Usuario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Vuelo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Vuelo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/usuarios.json" beforeDir="false" afterPath="$PROJECT_DIR$/usuarios.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,22 +71,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1592942256608" />
-    <state width="1493" height="163" key="GridCell.Tab.0.bottom" timestamp="1592960327174">
+    <state width="1493" height="163" key="GridCell.Tab.0.bottom" timestamp="1593475433989">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="163" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592960327174" />
-    <state width="1493" height="163" key="GridCell.Tab.0.center" timestamp="1592960327174">
+    <state width="1493" height="163" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593475433989" />
+    <state width="1493" height="163" key="GridCell.Tab.0.center" timestamp="1593475433989">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="163" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1592960327174" />
-    <state width="1493" height="163" key="GridCell.Tab.0.left" timestamp="1592960327174">
+    <state width="1493" height="163" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593475433989" />
+    <state width="1493" height="163" key="GridCell.Tab.0.left" timestamp="1593475433989">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="163" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1592960327174" />
-    <state width="1493" height="163" key="GridCell.Tab.0.right" timestamp="1592960327174">
+    <state width="1493" height="163" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593475433989" />
+    <state width="1493" height="163" key="GridCell.Tab.0.right" timestamp="1593475433989">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="163" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592960327174" />
+    <state width="1493" height="163" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593475433989" />
     <state width="1493" height="260" key="GridCell.Tab.1.bottom" timestamp="1592806078960">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -126,10 +115,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="690" y="148" width="846" height="601" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1592696431210" />
-    <state x="418" y="33" key="new project wizard" timestamp="1592270517674">
+    <state x="418" y="33" key="new project wizard" timestamp="1596759705453">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="418" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1592270517674" />
+    <state x="418" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1596759705453" />
     <state x="511" y="41" key="refactoring.ChangeSignatureDialog" timestamp="1592958404214">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
